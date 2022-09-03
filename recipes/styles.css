@@ -1,0 +1,20 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    width:300px;
+    height: auto;
+    margin: auto;
+}
+
+p, ul, ol {
+    width: 500px;
+    margin: auto;
+    text-align: justify;
+}

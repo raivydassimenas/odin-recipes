@@ -1,0 +1,17 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    margin: auto;
+    width: 300px;
+}
+
+footer {
+    text-align: right;
+    margin: 30px;
+}
